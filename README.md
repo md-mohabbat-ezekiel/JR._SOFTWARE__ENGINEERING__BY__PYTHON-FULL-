@@ -1,1 +1,8 @@
-**Basic, build_in_function, module, data_structure, algorithon, object_oriented_programming, MySQL_detabase_management, fornted_and backend_by django_project**
+1.BASIC
+2.BUILD_IN_FUNCTION
+3.PYTHON_MODULE
+4.DATA_STRUCTURE
+5.ALGORITHM
+6.OBJECT_ORIENTED_PROGRAMMING
+7.DETABASE_MANAGEMENT_MySQL
+6.FRONTEND_&_BACKEND_DJANGO
